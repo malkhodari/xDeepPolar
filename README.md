@@ -6,7 +6,7 @@
 
 ###### Paper: doi.org/10.10.10.10 (pending publication)
 
-![github_logo](https://github.com/malkhodari/xDeepPolar/assets/62998803/6c40b86b-a3ab-40ad-bfd7-d9e700e64c0d)
+<img src="https://github.com/malkhodari/xDeepPolar/assets/62998803/6c40b86b-a3ab-40ad-bfd7-d9e700e64c0d" width="80%" height="80%">
 
 ## For online use
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=malkhodari/xDeepPolar&file=xDeepPolar.mlappinstall)
