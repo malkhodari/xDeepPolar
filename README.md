@@ -29,3 +29,17 @@ Copyright © 2023 Khalifa University For Science & Technology (KU). All Rights R
 - You can manually adjust screen size based on your screen resolution (zoom out)
 - You can add the app to favourites for faster access by clicking on the star
 ```
+
+## For stand-alone use (.exe)
+[<img src="hyperlink2.png" width="16.35%" height="16.35%">
+](https://kudrive.ku.ac.ae/no-shib/index.php/s/gpMycXrD0cJsAQQ/download)
+
+```
+- Download xDeepPolar.exe on your Windows computer and run the installer (no MATLAB required)
+- Select the location, create desktop shortcut, and proceed with downloading the app 
+- Launch the app from the desktop shortcut or from the download location
+- You can manually adjust screen size based on your screen resolution
+```
+
+## Learn more about us
+[https://www.ku.ac.ae/heic](https://www.ku.ac.ae/heic)
