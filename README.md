@@ -8,6 +8,8 @@
 
 <img src="https://github.com/malkhodari/xDeepPolar/assets/62998803/6c40b86b-a3ab-40ad-bfd7-d9e700e64c0d" width="80%" height="80%">
 
+Copyright © 2023 Khalifa University For Science $\&$ Technology (KU). All Rights Reserved.
+
 ## For online use
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=malkhodari/xDeepPolar&file=xDeepPolar.mlappinstall)
 
