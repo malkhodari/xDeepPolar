@@ -10,7 +10,7 @@ Version: 1.0 Release date: 20XX-XX-XX
 
 Contact: mohanad.alkhodari@ku.ac.ae, ahsan.khandoker@ku.ac.ae
 
-Copyright © 2023 Khalifa University For Science $\&$ Technology (KU). All Rights Reserved.
+Copyright © 2023 Khalifa University For Science & Technology (KU). All Rights Reserved.
 
 <img src="https://github.com/malkhodari/xDeepPolar/assets/62998803/6c40b86b-a3ab-40ad-bfd7-d9e700e64c0d" width="80%" height="80%">
 
