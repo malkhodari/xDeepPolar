@@ -32,7 +32,7 @@ Copyright © 2023 Khalifa University For Science & Technology (KU). All Rights R
 
 ## For stand-alone use (.exe)
 [<img src="hyperlink2.png" width="16.35%" height="16.35%">
-](https://kudrive.ku.ac.ae/no-shib/index.php/s/gpMycXrD0cJsAQQ/download)
+](https://kudrive.ku.ac.ae/no-shib/index.php/s/PDjf8KkeyMbzqTl/download)
 
 ```
 - Download xDeepPolar.exe on your Windows computer and run the installer (no MATLAB required)
