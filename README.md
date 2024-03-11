@@ -16,7 +16,15 @@ Copyright © 2023 Khalifa University For Science & Technology (KU). All Rights R
 
 ## For Webapp use
 
-https://workable-snake-fresh.ngrok-free.app/webapps/home/session.html?app=xDeepPolar
+[<img src="hyperlink3.png" width="16.35%" height="16.35%">
+](https://workable-snake-fresh.ngrok-free.app/webapps/home/session.html?app=xDeepPolar)
+
+```
+- Open the link and wait for the tool to be loaded
+- Use the tool simply by inserting inputs directly in their specified location 
+- The webapp does not support pop-up windows (if any), use the log button to view messages
+- You can keep refreshing the log to update the messages
+```
 
 ## For online use
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=malkhodari/xDeepPolar&file=xDeepPolar.mlappinstall)
