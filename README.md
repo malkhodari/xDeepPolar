@@ -1,16 +1,16 @@
 # xDeepPolar
 ### An explainable deep learning tool for the assessment of heart failure stages using novel multi-parameter polar images
 
-##### Mohanad Alkhodari, Ahsan Khandoker, Herbert Jelinek, Leontios Hadjileontiadis
+##### Mohanad Alkhodari, Mostafa Moussa, Ahsan Khandoker
 ##### Healthcare Engineering Innovation Center (HEIC), Department of Biomedical Engineering, Khalifa University, Abu Dhabi, United Arab Emirates
 
 ###### Publication: doi.org/10.10.10.10 (pending)
 
-Version: 1.0 Release date: 20XX-XX-XX
+Version: 1.0 Release date: 2024-XX-XX
 
 Contact: mohanad.alkhodari@ku.ac.ae, ahsan.khandoker@ku.ac.ae
 
-Copyright © 2023 Khalifa University For Science & Technology (KU). All Rights Reserved.
+Copyright © 2024 Vital Rhythms™. All Rights Reserved.
 
 <img src="https://github.com/malkhodari/xDeepPolar/assets/62998803/6c40b86b-a3ab-40ad-bfd7-d9e700e64c0d" width="80%" height="80%">
 
