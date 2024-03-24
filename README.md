@@ -12,7 +12,7 @@ Contact: mohanad.alkhodari@ku.ac.ae, ahsan.khandoker@ku.ac.ae
 
 Copyright © 2024 Vital Rhythms™. All Rights Reserved.
 
-<img src="https://github.com/malkhodari/xDeepPolar/assets/62998803/6c40b86b-a3ab-40ad-bfd7-d9e700e64c0d" width="80%" height="80%">
+<img src="https://github.com/malkhodari/xDeepPolar/assets/62998803/2cc9f4fb-1417-4f3a-bf9e-e781a5eb2995" width="80%" height="80%">
 
 ## For Webapp use
 
