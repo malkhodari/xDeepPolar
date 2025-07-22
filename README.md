@@ -11,7 +11,8 @@ Version: 1.0 Release date: 2025-XX-XX
 
 Contact: mohanad.alkhodari@ku.ac.ae, ahsan.khandoker@ku.ac.ae
 
-Copyright © 2024 Vital Rhythms™. All Rights Reserved.
+Copyright © 2025 Vital Rhythms™. All Rights Reserved.
+https://www.vitalrhythms.org/
 
 <img src="https://github.com/malkhodari/xDeepPolar/assets/62998803/2cc9f4fb-1417-4f3a-bf9e-e781a5eb2995" width="80%" height="80%">
 
@@ -42,17 +43,6 @@ Copyright © 2024 Vital Rhythms™. All Rights Reserved.
 - Drag-drop patient files (in .csv) to the current path then hit browse
 - You can manually adjust screen size based on your screen resolution (zoom out)
 - You can add the app to favourites for faster access by clicking on the star
-```
-
-## For stand-alone use (.exe)
-[<img src="hyperlink2.png" width="16.35%" height="16.35%">
-](https://kudrive.ku.ac.ae/no-shib/index.php/s/bSYaYaHUegxIh3y/download)
-
-```
-- Download xDeepPolar.exe on your Windows computer and run the installer (no MATLAB required)
-- Select the location, create desktop shortcut, and proceed with downloading the app 
-- Launch the app from the desktop shortcut or from the download location
-- You can manually adjust screen size based on your screen resolution
 ```
 
 ## Learn more about us
