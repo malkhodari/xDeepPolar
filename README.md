@@ -2,11 +2,12 @@
 ### An explainable deep learning tool for the assessment of heart failure stages using novel multi-parameter polar images
 
 ##### Mohanad Alkhodari, Mostafa Moussa, Ahsan Khandoker
-##### Healthcare Engineering Innovation Center (HEIC), Department of Biomedical Engineering, Khalifa University, Abu Dhabi, United Arab Emirates
+##### Healthcare Engineering Innovation Group (HEIG), Department of Biomedical Engineering & Biotechnology, Khalifa University, Abu Dhabi, United Arab Emirates
 
-###### Publication: doi.org/10.10.10.10 (pending)
+###### Software Publication: doi.org/10.10.10.10 (pending)
+###### Study Publication: Alkhodari, M., Khandoker, A. H., Jelinek, H. F., Karlas, A., Soulaidopoulos, S., Arsenos, P., ... & Hadjileontiadis, L. J. (2024). Circadian assessment of heart failure using explainable deep learning and novel multi-parameter polar images. Computer Methods and Programs in Biomedicine, 248, 108107. https://doi.org/10.1016/j.cmpb.2024.108107
 
-Version: 1.0 Release date: 2024-XX-XX
+Version: 1.0 Release date: 2025-XX-XX
 
 Contact: mohanad.alkhodari@ku.ac.ae, ahsan.khandoker@ku.ac.ae
 
