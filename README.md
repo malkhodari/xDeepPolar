@@ -20,6 +20,7 @@ Copyright © 2024 Vital Rhythms™. All Rights Reserved.
 ](https://conr8019jf97.share.zrok.io/webapps/home/session.html?app=xDeepPolar)
 
 ```
+- NOT ALWAYS ONLINE
 - Open the link and wait for the tool to be loaded
 - Use the tool simply by inserting inputs directly in their specified location 
 - The webapp does not support pop-up windows (if any), use the log button to view messages
